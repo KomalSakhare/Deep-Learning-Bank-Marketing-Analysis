@@ -10,13 +10,13 @@ Table of Contents
 5) Data Visualization
 6) Model Training
 7) Evaluation Metrics
-Contributing
+8) Contributing
 
 
-* Project Overview *
+* Project Overview *  
 This project utilizes Python and TensorFlow to perform bank marketing analysis. The dataset is preprocessed, cleaned, visualized, and used to train an ANN model. The trained model is evaluated using Mean Square Error (MSE) and Mean Absolute Error (MAE) metrics.
 
-* Installation *
+* Installation *  
 Install the required Python libraries, or import the required libraries in your environment.
 
 * Usage *
